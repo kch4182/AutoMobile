@@ -1,0 +1,518 @@
+<?xml version="1.0" ?>
+<hierarchy rotation="0">
+  
+  
+  <node index="0" text="" resource-id="com.android.systemui:id/navigation_bar_frame" class="android.widget.FrameLayout" package="com.android.systemui" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" visible-to-user="true" bounds="[0,2274][1080,2400]" drawing-order="0" hint="" display-id="0">
+    
+    
+    <node index="0" text="" resource-id="com.android.systemui:id/navigation_bar_view" class="android.widget.FrameLayout" package="com.android.systemui" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" visible-to-user="true" bounds="[0,2274][1080,2400]" drawing-order="1" hint="" display-id="0">
+      
+      
+      <node index="0" text="" resource-id="com.android.systemui:id/navigation_inflater" class="android.widget.FrameLayout" package="com.android.systemui" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" visible-to-user="true" bounds="[0,2274][1080,2400]" drawing-order="2" hint="" display-id="0">
+        
+        
+        <node index="0" text="" resource-id="com.android.systemui:id/horizontal" class="android.widget.FrameLayout" package="com.android.systemui" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" visible-to-user="true" bounds="[0,2274][1080,2400]" drawing-order="1" hint="" display-id="0">
+          
+          
+          <node index="0" text="" resource-id="com.android.systemui:id/nav_buttons" class="android.widget.FrameLayout" package="com.android.systemui" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" visible-to-user="true" bounds="[0,2274][1080,2400]" drawing-order="1" hint="" display-id="0">
+            
+            
+            <node index="0" text="" resource-id="com.android.systemui:id/ends_group" class="android.widget.LinearLayout" package="com.android.systemui" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" visible-to-user="true" bounds="[0,2274][1080,2400]" drawing-order="1" hint="" display-id="0">
+              
+              
+              <node index="0" text="" resource-id="com.android.systemui:id/recent_apps" class="android.widget.ImageView" package="com.android.systemui" content-desc="최근 앱" checkable="false" checked="false" clickable="true" enabled="true" focusable="true" focused="false" scrollable="false" long-clickable="true" password="false" selected="false" visible-to-user="true" bounds="[118,2274][357,2400]" drawing-order="2" hint="" display-id="0"/>
+              
+              
+              <node index="1" text="" resource-id="com.android.systemui:id/back" class="android.widget.ImageView" package="com.android.systemui" content-desc="뒤로가기" checkable="false" checked="false" clickable="true" enabled="true" focusable="true" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" visible-to-user="true" bounds="[723,2274][962,2400]" drawing-order="4" hint="" display-id="0"/>
+              
+            
+            </node>
+            
+            
+            <node index="1" text="" resource-id="com.android.systemui:id/nav_bar_widget" class="android.widget.LinearLayout" package="com.android.systemui" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" visible-to-user="true" bounds="[0,2274][1080,2400]" drawing-order="3" hint="" display-id="0"/>
+            
+            
+            <node index="2" text="" resource-id="com.android.systemui:id/center_group" class="android.widget.LinearLayout" package="com.android.systemui" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" visible-to-user="true" bounds="[420,2274][659,2400]" drawing-order="2" hint="" display-id="0">
+              
+              
+              <node index="0" text="" resource-id="com.android.systemui:id/home" class="android.widget.ImageView" package="com.android.systemui" content-desc="홈" checkable="false" checked="false" clickable="true" enabled="true" focusable="true" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" visible-to-user="true" bounds="[420,2274][659,2400]" drawing-order="1" hint="" display-id="0"/>
+              
+            
+            </node>
+            
+          
+          </node>
+          
+        
+        </node>
+        
+      
+      </node>
+      
+    
+    </node>
+    
+  
+  </node>
+  
+  
+  <node index="0" text="" resource-id="" class="android.widget.FrameLayout" package="com.vetching.plusvetm.development" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" visible-to-user="true" bounds="[0,0][1080,2400]" drawing-order="0" hint="" display-id="0">
+    
+    
+    <node index="0" text="" resource-id="" class="android.widget.LinearLayout" package="com.vetching.plusvetm.development" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" visible-to-user="true" bounds="[0,0][1080,2400]" drawing-order="1" hint="" display-id="0">
+      
+      
+      <node index="0" text="" resource-id="android:id/content" class="android.widget.FrameLayout" package="com.vetching.plusvetm.development" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" visible-to-user="true" bounds="[0,0][1080,2400]" drawing-order="2" hint="" display-id="0">
+        
+        
+        <node index="0" text="" resource-id="" class="android.widget.FrameLayout" package="com.vetching.plusvetm.development" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" visible-to-user="true" bounds="[0,0][1080,2400]" drawing-order="1" hint="" display-id="0">
+          
+          
+          <node index="0" text="" resource-id="" class="android.widget.FrameLayout" package="com.vetching.plusvetm.development" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="true" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" visible-to-user="true" bounds="[0,0][1080,2400]" drawing-order="1" hint="" display-id="0">
+            
+            
+            <node index="0" text="" resource-id="" class="android.view.View" package="com.vetching.plusvetm.development" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" visible-to-user="true" bounds="[0,0][1080,2400]" drawing-order="0" hint="" display-id="0">
+              
+              
+              <node index="0" text="" resource-id="" class="android.view.View" package="com.vetching.plusvetm.development" content-desc="DEVELOPMENT" checkable="false" checked="false" clickable="false" enabled="true" focusable="true" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" visible-to-user="true" bounds="[0,0][1080,2400]" drawing-order="0" hint="" display-id="0">
+                
+                
+                <node index="0" text="" resource-id="" class="android.view.View" package="com.vetching.plusvetm.development" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" visible-to-user="true" bounds="[0,0][1080,2400]" drawing-order="0" hint="" display-id="0">
+                  
+                  
+                  <node index="0" text="" resource-id="" class="android.view.View" package="com.vetching.plusvetm.development" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" visible-to-user="true" bounds="[0,0][1080,2400]" drawing-order="0" hint="" display-id="0">
+                    
+                    
+                    <node index="0" text="" resource-id="" class="android.view.View" package="com.vetching.plusvetm.development" content-desc="" checkable="false" checked="false" clickable="true" enabled="true" focusable="true" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" visible-to-user="true" bounds="[0,0][1080,2400]" drawing-order="0" hint="" display-id="0">
+                      
+                      
+                      <node index="0" text="" resource-id="" class="android.view.View" package="com.vetching.plusvetm.development" content-desc="외래" checkable="false" checked="false" clickable="true" enabled="true" focusable="true" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" visible-to-user="true" bounds="[53,106][143,190]" drawing-order="0" hint="" display-id="0"/>
+                      
+                      
+                      <node index="1" text="" resource-id="" class="android.view.View" package="com.vetching.plusvetm.development" content-desc="입원" checkable="false" checked="false" clickable="true" enabled="true" focusable="true" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" visible-to-user="true" bounds="[183,106][273,190]" drawing-order="0" hint="" display-id="0"/>
+                      
+                      
+                      <node NAF="true" index="2" text="" resource-id="" class="android.widget.ImageView" package="com.vetching.plusvetm.development" content-desc="" checkable="false" checked="false" clickable="true" enabled="true" focusable="true" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" visible-to-user="true" bounds="[938,104][1028,193]" drawing-order="0" hint="" display-id="0"/>
+                      
+                      
+                      <node index="3" text="" resource-id="" class="android.view.View" package="com.vetching.plusvetm.development" content-desc="" checkable="false" checked="false" clickable="true" enabled="true" focusable="true" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" visible-to-user="true" bounds="[53,243][1028,366]" drawing-order="0" hint="" display-id="0">
+                        
+                        
+                        <node index="0" text="" resource-id="" class="android.view.View" package="com.vetching.plusvetm.development" content-desc="" checkable="false" checked="false" clickable="true" enabled="true" focusable="true" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" visible-to-user="true" bounds="[53,243][1028,366]" drawing-order="0" hint="" display-id="0">
+                          
+                          
+                          <node index="0" text="" resource-id="" class="android.view.View" package="com.vetching.plusvetm.development" content-desc="동물명/보호자명/품종명/진료실명" checkable="false" checked="false" clickable="true" enabled="true" focusable="true" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" visible-to-user="true" bounds="[53,243][1028,366]" drawing-order="0" hint="" display-id="0">
+                            
+                            
+                            <node index="0" text="" resource-id="" class="android.widget.EditText" package="com.vetching.plusvetm.development" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="true" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" visible-to-user="true" bounds="[84,269][928,340]" drawing-order="0" hint="" display-id="0"/>
+                            
+                            
+                            <node NAF="true" index="1" text="" resource-id="" class="android.widget.ImageView" package="com.vetching.plusvetm.development" content-desc="" checkable="false" checked="false" clickable="true" enabled="true" focusable="true" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" visible-to-user="true" bounds="[938,269][1009,340]" drawing-order="0" hint="" display-id="0"/>
+                            
+                          
+                          </node>
+                          
+                        
+                        </node>
+                        
+                      
+                      </node>
+                      
+                      
+                      <node index="4" text="" resource-id="" class="android.widget.ImageView" package="com.vetching.plusvetm.development" content-desc="비어 있음" checkable="false" checked="false" clickable="false" enabled="true" focusable="true" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" visible-to-user="true" bounds="[53,406][394,495]" drawing-order="0" hint="" display-id="0"/>
+                      
+                      
+                      <node index="5" text="" resource-id="" class="android.widget.ImageView" package="com.vetching.plusvetm.development" content-desc="2026.02.13" checkable="false" checked="false" clickable="true" enabled="true" focusable="true" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" visible-to-user="true" bounds="[617,406][917,495]" drawing-order="0" hint="" display-id="0"/>
+                      
+                      
+                      <node NAF="true" index="6" text="" resource-id="" class="android.widget.ImageView" package="com.vetching.plusvetm.development" content-desc="" checkable="false" checked="false" clickable="true" enabled="true" focusable="true" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" visible-to-user="true" bounds="[938,406][1028,495]" drawing-order="0" hint="" display-id="0"/>
+                      
+                      
+                      <node index="7" text="" resource-id="" class="android.view.View" package="com.vetching.plusvetm.development" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" visible-to-user="true" bounds="[53,534][1028,2111]" drawing-order="0" hint="" display-id="0">
+                        
+                        
+                        <node index="0" text="" resource-id="" class="android.view.View" package="com.vetching.plusvetm.development" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" visible-to-user="true" bounds="[53,534][1028,2111]" drawing-order="0" hint="" display-id="0">
+                          
+                          
+                          <node index="0" text="" resource-id="" class="android.widget.ImageView" package="com.vetching.plusvetm.development" content-desc="2" checkable="false" checked="false" clickable="true" enabled="true" focusable="true" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" visible-to-user="true" bounds="[53,534][1028,1681]" drawing-order="0" hint="" display-id="0">
+                            
+                            
+                            <node index="0" text="" resource-id="" class="android.view.View" package="com.vetching.plusvetm.development" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" visible-to-user="true" bounds="[95,566][843,637]" drawing-order="0" hint="" display-id="0">
+                              
+                              
+                              <node index="0" text="" resource-id="" class="android.view.View" package="com.vetching.plusvetm.development" content-desc="로컬테스트 원장" checkable="false" checked="false" clickable="false" enabled="true" focusable="true" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" visible-to-user="true" bounds="[95,566][375,637]" drawing-order="0" hint="" display-id="0"/>
+                              
+                            
+                            </node>
+                            
+                            
+                            <node index="1" text="" resource-id="" class="android.view.View" package="com.vetching.plusvetm.development" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" visible-to-user="true" bounds="[55,679][1025,1154]" drawing-order="0" hint="" display-id="0">
+                              
+                              
+                              <node index="0" text="" resource-id="" class="android.view.View" package="com.vetching.plusvetm.development" content-desc="18:24" checkable="false" checked="false" clickable="true" enabled="true" focusable="true" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" visible-to-user="true" bounds="[55,679][1025,915]" drawing-order="0" hint="" display-id="0">
+                                
+                                
+                                <node index="0" text="" resource-id="" class="android.widget.ImageView" package="com.vetching.plusvetm.development" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" visible-to-user="true" bounds="[100,749][194,844]" drawing-order="0" hint="" display-id="0"/>
+                                
+                                
+                                <node index="1" text="" resource-id="" class="android.view.View" package="com.vetching.plusvetm.development" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" visible-to-user="true" bounds="[239,710][876,776]" drawing-order="0" hint="" display-id="0">
+                                  
+                                  
+                                  <node index="0" text="" resource-id="" class="android.view.View" package="com.vetching.plusvetm.development" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" visible-to-user="true" bounds="[239,710][876,776]" drawing-order="0" hint="" display-id="0">
+                                    
+                                    
+                                    <node index="0" text="" resource-id="" class="android.view.View" package="com.vetching.plusvetm.development" content-desc="접수" checkable="false" checked="false" clickable="false" enabled="true" focusable="true" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" visible-to-user="true" bounds="[239,710][325,776]" drawing-order="0" hint="" display-id="0"/>
+                                    
+                                    
+                                    <node index="1" text="" resource-id="" class="android.view.View" package="com.vetching.plusvetm.development" content-desc="강아지 진료실1" checkable="false" checked="false" clickable="false" enabled="true" focusable="true" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" visible-to-user="true" bounds="[343,710][560,776]" drawing-order="0" hint="" display-id="0"/>
+                                    
+                                  
+                                  </node>
+                                  
+                                
+                                </node>
+                                
+                                
+                                <node index="2" text="" resource-id="" class="android.view.View" package="com.vetching.plusvetm.development" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" visible-to-user="true" bounds="[239,794][878,883]" drawing-order="0" hint="" display-id="0">
+                                  
+                                  
+                                  <node index="0" text="" resource-id="" class="android.view.View" package="com.vetching.plusvetm.development" content-desc="고지훈" checkable="false" checked="false" clickable="false" enabled="true" focusable="true" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" visible-to-user="true" bounds="[239,810][334,868]" drawing-order="0" hint="" display-id="0"/>
+                                  
+                                  
+                                  <node index="1" text="" resource-id="" class="android.view.View" package="com.vetching.plusvetm.development" content-desc="|  알수없음/M  |  큐에이42" checkable="false" checked="false" clickable="false" enabled="true" focusable="true" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" visible-to-user="true" bounds="[353,810][742,868]" drawing-order="0" hint="" display-id="0"/>
+                                  
+                                
+                                </node>
+                                
+                                
+                                <node NAF="true" index="3" text="" resource-id="" class="android.widget.ImageView" package="com.vetching.plusvetm.development" content-desc="" checkable="false" checked="false" clickable="true" enabled="true" focusable="true" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" visible-to-user="true" bounds="[896,794][985,883]" drawing-order="0" hint="" display-id="0"/>
+                                
+                              
+                              </node>
+                              
+                              
+                              <node index="1" text="" resource-id="" class="android.view.View" package="com.vetching.plusvetm.development" content-desc="16:54" checkable="false" checked="false" clickable="true" enabled="true" focusable="true" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" visible-to-user="true" bounds="[55,917][1025,1154]" drawing-order="0" hint="" display-id="0">
+                                
+                                
+                                <node index="0" text="" resource-id="" class="android.widget.ImageView" package="com.vetching.plusvetm.development" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" visible-to-user="true" bounds="[100,988][194,1083]" drawing-order="0" hint="" display-id="0"/>
+                                
+                                
+                                <node index="1" text="" resource-id="" class="android.view.View" package="com.vetching.plusvetm.development" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" visible-to-user="true" bounds="[239,949][875,1015]" drawing-order="0" hint="" display-id="0">
+                                  
+                                  
+                                  <node index="0" text="" resource-id="" class="android.view.View" package="com.vetching.plusvetm.development" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" visible-to-user="true" bounds="[239,949][875,1015]" drawing-order="0" hint="" display-id="0">
+                                    
+                                    
+                                    <node index="0" text="" resource-id="" class="android.view.View" package="com.vetching.plusvetm.development" content-desc="접수" checkable="false" checked="false" clickable="false" enabled="true" focusable="true" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" visible-to-user="true" bounds="[239,949][325,1015]" drawing-order="0" hint="" display-id="0"/>
+                                    
+                                    
+                                    <node index="1" text="" resource-id="" class="android.view.View" package="com.vetching.plusvetm.development" content-desc="미지정" checkable="false" checked="false" clickable="false" enabled="true" focusable="true" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" visible-to-user="true" bounds="[343,949][456,1015]" drawing-order="0" hint="" display-id="0"/>
+                                    
+                                  
+                                  </node>
+                                  
+                                
+                                </node>
+                                
+                                
+                                <node index="2" text="" resource-id="" class="android.view.View" package="com.vetching.plusvetm.development" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" visible-to-user="true" bounds="[239,1033][878,1122]" drawing-order="0" hint="" display-id="0">
+                                  
+                                  
+                                  <node index="0" text="" resource-id="" class="android.view.View" package="com.vetching.plusvetm.development" content-desc="갈!" checkable="false" checked="false" clickable="false" enabled="true" focusable="true" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" visible-to-user="true" bounds="[239,1049][282,1106]" drawing-order="0" hint="" display-id="0"/>
+                                  
+                                  
+                                  <node index="1" text="" resource-id="" class="android.view.View" package="com.vetching.plusvetm.development" content-desc="|  알수없음/M  |  조현석" checkable="false" checked="false" clickable="false" enabled="true" focusable="true" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" visible-to-user="true" bounds="[300,1049][645,1106]" drawing-order="0" hint="" display-id="0"/>
+                                  
+                                
+                                </node>
+                                
+                                
+                                <node NAF="true" index="3" text="" resource-id="" class="android.widget.ImageView" package="com.vetching.plusvetm.development" content-desc="" checkable="false" checked="false" clickable="true" enabled="true" focusable="true" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" visible-to-user="true" bounds="[896,1033][985,1122]" drawing-order="0" hint="" display-id="0"/>
+                                
+                              
+                              </node>
+                              
+                            
+                            </node>
+                            
+                          
+                          </node>
+                          
+                        
+                        </node>
+                        
+                      
+                      </node>
+                      
+                      
+                      <node index="8" text="" resource-id="" class="android.widget.ImageView" package="com.vetching.plusvetm.development" content-desc="홈" checkable="false" checked="false" clickable="true" enabled="true" focusable="true" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" visible-to-user="true" bounds="[81,2127][264,2261]" drawing-order="0" hint="" display-id="0"/>
+                      
+                      
+                      <node index="9" text="" resource-id="" class="android.widget.ImageView" package="com.vetching.plusvetm.development" content-desc="오더" checkable="false" checked="false" clickable="true" enabled="true" focusable="true" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" visible-to-user="true" bounds="[264,2127][448,2261]" drawing-order="0" hint="" display-id="0"/>
+                      
+                      
+                      <node index="10" text="" resource-id="" class="android.widget.ImageView" package="com.vetching.plusvetm.development" content-desc="·&#10;대화" checkable="false" checked="false" clickable="true" enabled="true" focusable="true" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" visible-to-user="true" bounds="[448,2127][632,2261]" drawing-order="0" hint="" display-id="0"/>
+                      
+                      
+                      <node index="11" text="" resource-id="" class="android.widget.ImageView" package="com.vetching.plusvetm.development" content-desc="일정" checkable="false" checked="false" clickable="true" enabled="true" focusable="true" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" visible-to-user="true" bounds="[632,2127][816,2261]" drawing-order="0" hint="" display-id="0"/>
+                      
+                      
+                      <node index="12" text="" resource-id="" class="android.widget.ImageView" package="com.vetching.plusvetm.development" content-desc="동물검색" checkable="false" checked="false" clickable="true" enabled="true" focusable="true" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" visible-to-user="true" bounds="[816,2127][999,2261]" drawing-order="0" hint="" display-id="0"/>
+                      
+                    
+                    </node>
+                    
+                  
+                  </node>
+                  
+                
+                </node>
+                
+              
+              </node>
+              
+            
+            </node>
+            
+          
+          </node>
+          
+        
+        </node>
+        
+      
+      </node>
+      
+    
+    </node>
+    
+  
+  </node>
+  
+  
+  <node index="0" text="" resource-id="" class="android.widget.FrameLayout" package="com.android.systemui" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" visible-to-user="true" bounds="[0,0][1080,80]" drawing-order="0" hint="" display-id="0">
+    
+    
+    <node index="0" text="" resource-id="com.android.systemui:id/status_bar_launch_animation_container" class="android.widget.FrameLayout" package="com.android.systemui" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" visible-to-user="true" bounds="[0,0][1080,80]" drawing-order="1" hint="" display-id="0"/>
+    
+    
+    <node index="1" text="" resource-id="com.android.systemui:id/container" class="android.widget.FrameLayout" package="com.android.systemui" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" visible-to-user="true" bounds="[0,0][1080,80]" drawing-order="3" hint="" display-id="0"/>
+    
+    
+    <node index="2" text="" resource-id="com.android.systemui:id/status_bar_container" class="android.widget.FrameLayout" package="com.android.systemui" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" visible-to-user="true" bounds="[0,0][1080,80]" drawing-order="2" hint="" display-id="0">
+      
+      
+      <node index="0" text="" resource-id="com.android.systemui:id/status_bar" class="android.widget.FrameLayout" package="com.android.systemui" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" visible-to-user="true" bounds="[0,0][1080,80]" drawing-order="1" hint="" display-id="0">
+        
+        
+        <node index="0" text="" resource-id="com.android.systemui:id/phone_status_bar_background" class="android.widget.FrameLayout" package="com.android.systemui" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" visible-to-user="true" bounds="[0,0][1080,80]" drawing-order="1" hint="" display-id="0"/>
+        
+        
+        <node index="1" text="" resource-id="com.android.systemui:id/status_bar_area" class="android.widget.FrameLayout" package="com.android.systemui" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" visible-to-user="true" bounds="[0,0][1080,80]" drawing-order="2" hint="" display-id="0">
+          
+          
+          <node index="0" text="" resource-id="com.android.systemui:id/status_bar_contents" class="android.widget.RelativeLayout" package="com.android.systemui" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" visible-to-user="true" bounds="[0,0][1080,80]" drawing-order="2" hint="" display-id="0">
+            
+            
+            <node index="0" text="" resource-id="com.android.systemui:id/status_bar_left_side_container" class="android.widget.FrameLayout" package="com.android.systemui" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" visible-to-user="true" bounds="[58,1][466,80]" drawing-order="1" hint="" display-id="0">
+              
+              
+              <node index="0" text="" resource-id="com.android.systemui:id/status_bar_left_side" class="android.widget.LinearLayout" package="com.android.systemui" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" visible-to-user="true" bounds="[58,1][466,80]" drawing-order="2" hint="" display-id="0">
+                
+                
+                <node index="0" text="" resource-id="com.android.systemui:id/left_clock_container" class="android.widget.LinearLayout" package="com.android.systemui" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" visible-to-user="true" bounds="[58,1][133,80]" drawing-order="3" hint="" display-id="0">
+                  
+                  
+                  <node index="0" text="6:44" resource-id="com.android.systemui:id/clock" class="android.widget.TextView" package="com.android.systemui" content-desc="오후 6:44" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" visible-to-user="true" bounds="[58,1][133,80]" drawing-order="1" hint="" display-id="0"/>
+                  
+                
+                </node>
+                
+                
+                <node index="1" text="" resource-id="com.android.systemui:id/notification_icon_area" class="android.widget.FrameLayout" package="com.android.systemui" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" visible-to-user="true" bounds="[141,1][466,80]" drawing-order="5" hint="" display-id="0">
+                  
+                  
+                  <node index="0" text="" resource-id="com.android.systemui:id/notification_icon_area_inner" class="android.widget.LinearLayout" package="com.android.systemui" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" visible-to-user="true" bounds="[141,1][466,80]" drawing-order="1" hint="" display-id="0">
+                    
+                    
+                    <node index="0" text="" resource-id="com.android.systemui:id/notificationIcons" class="android.widget.FrameLayout" package="com.android.systemui" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" visible-to-user="true" bounds="[141,1][466,80]" drawing-order="2" hint="" display-id="0">
+                      
+                      
+                      <node index="0" text="" resource-id="" class="android.widget.ImageView" package="com.android.systemui" content-desc="Google Play 서비스 알림: 계정 관련 조치 필요" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" visible-to-user="true" bounds="[141,1][188,80]" drawing-order="1" hint="" display-id="0"/>
+                      
+                      
+                      <node index="1" text="" resource-id="" class="android.widget.ImageView" package="com.android.systemui" content-desc="플러스벳 M (dev) 알림: 쓰레드2(10010)의 쓰레드" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" visible-to-user="true" bounds="[188,1][235,80]" drawing-order="2" hint="" display-id="0"/>
+                      
+                      
+                      <node index="2" text="" resource-id="" class="android.widget.ImageView" package="com.android.systemui" content-desc="플러스벳 M (dev) 알림: 갈!(10009)의 쓰레드" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" visible-to-user="true" bounds="[235,1][282,80]" drawing-order="3" hint="" display-id="0"/>
+                      
+                      
+                      <node index="3" text="" resource-id="" class="android.widget.ImageView" package="com.android.systemui" content-desc="플러스벳 M 알림: " checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" visible-to-user="true" bounds="[282,1][329,80]" drawing-order="4" hint="" display-id="0"/>
+                      
+                      
+                      <node index="4" text="" resource-id="" class="android.widget.ImageView" package="com.android.systemui" content-desc="설정 알림: 사용하지 않는 앱 3개" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" visible-to-user="true" bounds="[300,1][347,80]" drawing-order="7" hint="" display-id="0"/>
+                      
+                      
+                      <node index="5" text="" resource-id="" class="android.widget.ImageView" package="com.android.systemui" content-desc="Windows와 연결 알림: 디바이스가 연결되어 있습니다." checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" visible-to-user="true" bounds="[300,1][347,80]" drawing-order="5" hint="" display-id="0"/>
+                      
+                      
+                      <node index="6" text="" resource-id="" class="android.widget.ImageView" package="com.android.systemui" content-desc="재난문자 알림: 새 경보" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" visible-to-user="true" bounds="[300,1][347,80]" drawing-order="6" hint="" display-id="0"/>
+                      
+                    
+                    </node>
+                    
+                  
+                  </node>
+                  
+                
+                </node>
+                
+              
+              </node>
+              
+            
+            </node>
+            
+            
+            <node index="2" text="" resource-id="com.android.systemui:id/system_icon_area" class="android.widget.LinearLayout" package="com.android.systemui" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" visible-to-user="true" bounds="[781,1][1022,80]" drawing-order="3" hint="" display-id="0">
+              
+              
+              <node index="0" text="" resource-id="" class="android.widget.FrameLayout" package="com.android.systemui" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" visible-to-user="true" bounds="[781,1][1022,80]" drawing-order="3" hint="" display-id="0">
+                
+                
+                <node index="0" text="" resource-id="com.android.systemui:id/system_icons" class="android.widget.LinearLayout" package="com.android.systemui" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" visible-to-user="true" bounds="[781,1][1022,80]" drawing-order="1" hint="" display-id="0">
+                  
+                  
+                  <node index="0" text="" resource-id="com.android.systemui:id/statusIcons" class="android.widget.LinearLayout" package="com.android.systemui" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" visible-to-user="true" bounds="[781,1][923,80]" drawing-order="1" hint="" display-id="0">
+                    
+                    
+                    <node index="0" text="" resource-id="" class="android.widget.ImageView" package="com.android.systemui" content-desc="벨소리가 무음입니다." checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" visible-to-user="true" bounds="[781,21][823,60]" drawing-order="11" hint="" display-id="0"/>
+                    
+                    
+                    <node index="1" text="" resource-id="com.android.systemui:id/wifi_combo" class="android.widget.FrameLayout" package="com.android.systemui" content-desc="Wi-Fi 신호가 강합니다." checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" visible-to-user="true" bounds="[826,21][873,60]" drawing-order="18" hint="" display-id="0">
+                      
+                      
+                      <node index="0" text="" resource-id="com.android.systemui:id/wifi_group" class="android.widget.LinearLayout" package="com.android.systemui" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" visible-to-user="true" bounds="[826,21][873,60]" drawing-order="1" hint="" display-id="0">
+                        
+                        
+                        <node index="0" text="" resource-id="com.android.systemui:id/wifi_iconset" class="android.widget.FrameLayout" package="com.android.systemui" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" visible-to-user="true" bounds="[826,22][873,59]" drawing-order="1" hint="" display-id="0">
+                          
+                          
+                          <node index="0" text="" resource-id="com.android.systemui:id/wifi_signal" class="android.widget.ImageView" package="com.android.systemui" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" visible-to-user="true" bounds="[826,22][873,59]" drawing-order="1" hint="" display-id="0"/>
+                          
+                          
+                          <node index="1" text="" resource-id="com.android.systemui:id/wifi_activity" class="android.widget.ImageView" package="com.android.systemui" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" visible-to-user="true" bounds="[826,22][873,59]" drawing-order="2" hint="" display-id="0"/>
+                          
+                        
+                        </node>
+                        
+                      
+                      </node>
+                      
+                    
+                    </node>
+                    
+                    
+                    <node index="2" text="" resource-id="com.android.systemui:id/mobile_combo" class="android.widget.FrameLayout" package="com.android.systemui" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" visible-to-user="true" bounds="[873,21][915,60]" drawing-order="19" hint="" display-id="0">
+                      
+                      
+                      <node index="0" text="" resource-id="com.android.systemui:id/mobile_group" class="android.widget.LinearLayout" package="com.android.systemui" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" visible-to-user="true" bounds="[873,21][915,60]" drawing-order="1" hint="" display-id="0">
+                        
+                        
+                        <node index="0" text="" resource-id="com.android.systemui:id/signal_combo" class="android.widget.FrameLayout" package="com.android.systemui" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" visible-to-user="true" bounds="[873,21][915,60]" drawing-order="3" hint="" display-id="0">
+                          
+                          
+                          <node index="0" text="" resource-id="com.android.systemui:id/mobile_signal" class="android.widget.ImageView" package="com.android.systemui" content-desc="휴대전화의 신호가 없습니다." checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" visible-to-user="true" bounds="[873,21][915,60]" drawing-order="1" hint="" display-id="0"/>
+                          
+                        
+                        </node>
+                        
+                      
+                      </node>
+                      
+                    
+                    </node>
+                    
+                  
+                  </node>
+                  
+                  
+                  <node index="1" text="" resource-id="com.android.systemui:id/battery" class="android.widget.LinearLayout" package="com.android.systemui" content-desc="배터리 32퍼센트" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" visible-to-user="true" bounds="[923,1][1022,80]" drawing-order="2" hint="" display-id="0">
+                    
+                    
+                    <node index="0" text="32%" resource-id="com.android.systemui:id/battery_percentage_view" class="android.widget.TextView" package="com.android.systemui" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" visible-to-user="true" bounds="[923,1][996,80]" drawing-order="1" hint="" display-id="0"/>
+                    
+                    
+                    <node index="1" text="" resource-id="" class="android.widget.ImageView" package="com.android.systemui" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" visible-to-user="true" bounds="[1001,22][1022,59]" drawing-order="2" hint="" display-id="0"/>
+                    
+                  
+                  </node>
+                  
+                
+                </node>
+                
+              
+              </node>
+              
+            
+            </node>
+            
+          
+          </node>
+          
+        
+        </node>
+        
+      
+      </node>
+      
+    
+    </node>
+    
+  
+  </node>
+  
+  
+  <node index="0" text="" resource-id="" class="android.widget.FrameLayout" package="com.samsung.android.app.cocktailbarservice" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" visible-to-user="true" bounds="[1038,458][1080,800]" drawing-order="0" hint="" display-id="0">
+    
+    
+    <node index="0" text="" resource-id="" class="android.widget.LinearLayout" package="com.samsung.android.app.cocktailbarservice" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" visible-to-user="true" bounds="[1038,458][1080,800]" drawing-order="1" hint="" display-id="0">
+      
+      
+      <node index="0" text="" resource-id="android:id/content" class="android.widget.FrameLayout" package="com.samsung.android.app.cocktailbarservice" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" visible-to-user="true" bounds="[1038,458][1080,800]" drawing-order="2" hint="" display-id="0">
+        
+        
+        <node index="0" text="" resource-id="" class="android.widget.FrameLayout" package="com.samsung.android.app.cocktailbarservice" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" visible-to-user="true" bounds="[1038,458][1080,800]" drawing-order="1" hint="" display-id="0">
+          
+          
+          <node index="0" text="" resource-id="com.samsung.android.app.cocktailbarservice:id/trigger_layout_container" class="android.widget.RelativeLayout" package="com.samsung.android.app.cocktailbarservice" content-desc="Edge 패널" checkable="false" checked="false" clickable="true" enabled="true" focusable="true" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" visible-to-user="true" bounds="[1038,458][1080,800]" drawing-order="3" hint="" display-id="0">
+            
+            
+            <node index="0" text="" resource-id="com.samsung.android.app.cocktailbarservice:id/trigger_layout" class="android.widget.FrameLayout" package="com.samsung.android.app.cocktailbarservice" content-desc="Edge 패널" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" visible-to-user="true" bounds="[1069,458][1080,800]" drawing-order="1" hint="" display-id="0">
+              
+              
+              <node index="0" text="" resource-id="com.samsung.android.app.cocktailbarservice:id/default_trigger" class="android.widget.ImageView" package="com.samsung.android.app.cocktailbarservice" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" visible-to-user="true" bounds="[1069,458][1080,800]" drawing-order="1" hint="" display-id="0"/>
+              
+              
+              <node index="1" text="" resource-id="com.samsung.android.app.cocktailbarservice:id/default_trigger_stroke" class="android.widget.ImageView" package="com.samsung.android.app.cocktailbarservice" content-desc="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" scrollable="false" long-clickable="false" password="false" selected="false" visible-to-user="true" bounds="[1069,458][1080,800]" drawing-order="2" hint="" display-id="0"/>
+              
+            
+            </node>
+            
+          
+          </node>
+          
+        
+        </node>
+        
+      
+      </node>
+      
+    
+    </node>
+    
+  
+  </node>
+  
+
+</hierarchy>

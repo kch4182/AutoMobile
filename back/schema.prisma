@@ -1,0 +1,89 @@
+generator client {
+  provider  = "prisma-client-py"
+  interface = "asyncio"
+}
+
+datasource db {
+  provider = "postgresql"
+  url      = env("DATABASE_URL")
+}
+
+model Project {
+  id            Int            @id @default(autoincrement())
+  name          String
+  packageName   String         @unique
+  mainActivity  String?
+  scenarios     Scenario[]
+  testSuiteRuns TestSuiteRun[]
+}
+
+model Scenario {
+  id        Int      @id @default(autoincrement())
+  name      String   @default("New Scenario")
+  projectId Int
+  project   Project  @relation(fields: [projectId], references: [id])
+  steps     Step[]
+  createdAt DateTime @default(now())
+}
+
+model Step {
+  id          Int      @id @default(autoincrement())
+  scenarioId  Int
+  scenario    Scenario @relation(fields: [scenarioId], references: [id], onDelete: Cascade)
+  order       Int
+  action      String
+  x           Float?
+  y           Float?
+  targetLabel String?
+  description String?
+  selector    Json?
+  target      Json?
+  createdAt   DateTime @default(now())
+}
+
+model AppConfig {
+  package_name  String @id
+  reset_element Json?
+}
+
+model TestSuiteRun {
+  id            Int       @id @default(autoincrement())
+  projectId     Int
+  project       Project   @relation(fields: [projectId], references: [id], onDelete: Cascade)
+  totalDuration Float
+  status        String
+  createdAt     DateTime  @default(now())
+  runs          TestRun[]
+
+  @@index([projectId])
+  @@index([createdAt])
+}
+
+model TestRun {
+  id           Int           @id @default(autoincrement())
+  suiteId      Int
+  suite        TestSuiteRun  @relation(fields: [suiteId], references: [id], onDelete: Cascade)
+  scenarioName String
+  status       String
+  duration     Float
+  steps        TestStepLog[]
+
+  @@index([suiteId])
+}
+
+model TestStepLog {
+  id          Int     @id @default(autoincrement())
+  runId       Int
+  run         TestRun @relation(fields: [runId], references: [id], onDelete: Cascade)
+  stepIndex   Int
+  action      String
+  description String?
+  success     Boolean
+  message     String
+  traceImage  String?
+  isHealed    Boolean @default(false)
+  healDetails Json?
+
+  @@unique([runId, stepIndex])
+  @@index([runId])
+}

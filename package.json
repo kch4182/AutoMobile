@@ -1,0 +1,14 @@
+{
+  "scripts": {
+    "start:back": "cd back && venv/Scripts/python -u manage.py runserver",
+    "start:front": "cd frontend && npm run dev",
+    "dev": "concurrently -k \"npm run start:django\" \"npm run start:front\""
+  },
+  "dependencies": {
+    "axios": "^1.13.4",
+    "lucide-react": "^0.563.0"
+  },
+  "devDependencies": {
+    "prisma": "^6.19.3"
+  }
+}

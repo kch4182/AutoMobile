@@ -1,0 +1,42 @@
+export const MESSAGES = {
+  common: {
+    networkError: '서버와 통신하지 못했습니다. 네트워크 또는 백엔드 상태를 확인해 주세요.',
+    serverError: '서버 처리 중 오류가 발생했습니다.',
+    cancelled: '작업이 취소되었습니다.',
+    copied: '클립보드에 복사되었습니다.',
+    invalidJson: '올바른 JSON 파일이 아닙니다.',
+    invalidScenarioSchema: '시나리오 JSON은 배열이거나 steps 배열을 포함해야 합니다.',
+  },
+  device: {
+    connected: '기기가 연결되어 있습니다.',
+    disconnected: '기기 연결을 확인할 수 없습니다.',
+    reconnectSuccess: 'ADB 재연결 후 화면을 새로고침했습니다.',
+    reconnectFailed: 'ADB 재연결에 실패했습니다.',
+    inUse: '다른 탭에서 기기를 사용 중입니다. 실행이 끝난 뒤 다시 시도해 주세요.',
+  },
+  dashboard: {
+    loadFailed: '대시보드 실행 이력을 불러오지 못했습니다.',
+    deleteSuccess: '테스트 실행 이력과 trace 이미지가 삭제되었습니다.',
+    deleteFailed: '실행 이력 삭제에 실패했습니다.',
+    healApproved: 'AI Healing 변경안이 승인되었습니다.',
+    healFailed: 'AI Healing 승인에 실패했습니다.',
+    empty: '아직 실행 이력이 없습니다.',
+  },
+  studio: {
+    dirtyLeave: '저장되지 않은 변경 사항이 있습니다. 계속 진행할까요?',
+    exportSuccess: '시나리오를 저장했습니다.',
+    exportFailed: '시나리오 저장에 실패했습니다.',
+    projectRequired: '먼저 프로젝트를 선택해 주세요.',
+    loadFailed: '데이터를 불러오지 못했습니다.',
+    controlBlocked: 'Play 탭이 실행 중이라 Studio의 기기 제어를 잠시 막았습니다.',
+  },
+  play: {
+    queueEmpty: '실행할 시나리오를 먼저 추가해 주세요.',
+    runStarted: '실행 대기열을 시작했습니다.',
+    runStopped: '실행을 중단했습니다.',
+    runCompleted: '실행 대기열이 완료되었습니다.',
+    importSuccess: '시나리오를 대기열에 추가했습니다.',
+    importFailed: '시나리오 가져오기에 실패했습니다.',
+    deleteDisabled: '실행 중에는 대기열을 변경할 수 없습니다.',
+  },
+} as const;
